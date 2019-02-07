@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="size1">14sp</dimen>
+    <dimen name="size2">56sp</dimen>
+</resources>

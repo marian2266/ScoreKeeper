@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="host">HOST</string>
+    <string name="guest">GUEST</string>
+    <string name="goal">GOAL</string>
+    <string name="minus_goal">Minus a Goal</string>
+    <string name="fault">FAULT</string>
+    <string name="reset">RESET</string>
+</resources>
